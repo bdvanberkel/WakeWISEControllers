@@ -1,0 +1,6 @@
+NOTE: Trained on 4x4 farm
+Informed 1: 3.26, 1.18, 7.20
+Informed 2: 3.09, 0.91, 8.20
+Informed 3: 3.20, 1.00, 6.50
+Informed 4: 3.32, 1.31, 6.70
+Informed 5: 3.23, 1.14, 6.32

@@ -1,0 +1,10 @@
+NOTE: Trained on random 16 turbine farms
+greedy1: 1.014, 0.1538, 2.402
+greedy2: 1.004, 0.1, 2.264
+greedy3: 1.046, 0.1722, 2.727
+
+informed1: 3.38, 0.912, 7.211
+informed2: 4.585, 1.464, 9.009
+
+riskaverse1: 4.646, 1.382, 9.338
+riskaverse2: 4.384, 1.212, 9.214

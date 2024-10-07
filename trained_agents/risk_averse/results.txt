@@ -1,0 +1,6 @@
+NOTE: Trained on 4x4 farm
+riskaverse 1: 4.06, 1.10, 8.40
+riskaverse 2: 4.11, 1.31, 8.00
+riskaverse 3: 3.81, 1.09, 8.00
+riskaverse 4: 4.14, 1.13, 8.03
+riskaverse 5: 4.42, 1.96, 8.40

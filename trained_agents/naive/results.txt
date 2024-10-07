@@ -1,0 +1,6 @@
+NOTE: Trained on 4x4 farm
+Naive 1: 1.02, 0.1, 2.5
+Naive 2: 0.95, 0.1, 2.2
+Naive 3: 0.96, 0.12, 2.2
+Naive 4: 0.86, 0.15, 2.2
+Naive 5: 0.96, 0.1, 2.2
